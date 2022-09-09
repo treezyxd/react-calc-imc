@@ -6,4 +6,4 @@ Projeto desenvolvido com React + Typescript fazendo uma calculadora de IMC (índ
 - `npm install` | `yarn`
 
 ## Para Rodar
-- `npm start` | `yarn dev`
+- `npm start` | `yarn dev`# react-calc-imc
